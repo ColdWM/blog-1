@@ -244,3 +244,9 @@ public V get(Object key) {
 {% endhighlight %}
 recordAccess 메서드는 인스턴스 생성 시 정한 accessOrder(boolean)에 따른 정렬을 지원한다.
 
+
+Performance 테스트
+
+performance 테스트 결과
+
+
